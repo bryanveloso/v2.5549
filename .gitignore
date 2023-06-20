@@ -1,1 +1,3 @@
+# Configuration backups.
 *.bkp
+printer-*.cfg
