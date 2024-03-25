@@ -1,6 +1,8 @@
 # ADXL Results
-adxl_results
+K-ShakeTune*
 
 # Configuration backups.
 *.bkp
+*.backup
 printer-*.cfg
+crowsnest.conf.*
